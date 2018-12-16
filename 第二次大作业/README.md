@@ -38,7 +38,7 @@
 
 因此，我组考虑采用了多层感知机（Multi-Layer Perceptron，MLP）模型解决这一问题，并采用Grid Search进行模型优化，同时也尝试了对数据进行PCA降维处理。
 
-目前Lentcode排名13.
+目前Lintcode排名13.
 
 
 
